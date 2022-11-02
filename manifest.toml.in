@@ -5,4 +5,4 @@ version = "@SPELLERVERSION@"
 system_pkg_id = "no.divvun.MacDivvun.gur"
 
 [windows]
-system_product_code = "{REPLACE_WITH_REAL_SYSTEM_PROD_CODE}_is1"
+system_product_code = "{7CC18B9D-D513-4820-9FE2-172451CBF6FB}_is1"
