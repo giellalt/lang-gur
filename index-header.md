@@ -7,6 +7,8 @@
 
 This page documents the work on the **Farefare language model**. 
 
+Farefare is a Niger-Congo language spoken in Northern Ghana. It is also called Gurene (own orthography: Gurenɛ), Frafra and Farefari.
+
 # Project documentation
 
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
