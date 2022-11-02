@@ -1,0 +1,8 @@
+!! Nouns
+!  -----
+!! Nouns in the Farefare language are things.
+
+LEXICON Nouns
+noun    Cases   ;
+
+! vim: set ft=xfst-lexc:
