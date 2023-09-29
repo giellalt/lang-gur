@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-gur)](https://github.com/giellalt/lang-gur/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-gur)](https://github.com/giellalt/lang-gur/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-gur/main/badge.svg)](https://github.com/giellalt/lang-gur/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-gur/main/badge.svg)](https://github.com/giellalt/lang-gur/actions)
 
 This page documents the work on the **Farefare language model**. 
 
