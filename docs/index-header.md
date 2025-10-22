@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-gur)](https://github.com/giellalt/lang-gur/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-gur)](https://github.com/giellalt/lang-gur/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-gur?label=CI)](https://builds.giellalt.org/pipelines/lang-gur/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/fare1241)
 
 This page documents the work on the **Farefare language model**. 
 
