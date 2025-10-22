@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-gur%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-gur)](https://github.com/giellalt/lang-gur/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-gur)](https://github.com/giellalt/lang-gur/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-gur/main/badge.svg)](https://github.com/giellalt/lang-gur/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-gur?label=CI)](https://builds.giellalt.org/pipelines/lang-gur/builds/latest)
 
 This page documents the work on the **Farefare language model**. 
 
