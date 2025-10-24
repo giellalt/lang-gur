@@ -1,11 +1,19 @@
 # Farefare documentation
 
+<div class="twocolumn map" markdown="1">
+
 [![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-gur%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html)
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-gur%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-gur)](https://github.com/giellalt/lang-gur/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-gur)](https://github.com/giellalt/lang-gur/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-gur?label=CI)](https://builds.giellalt.org/pipelines/lang-gur/builds/latest)
 [![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/fare1241)
+
+{% include_relative language-map.md %}
+
+Center location data taken from [Glottolog](https://glottolog.org/). Area extent is local data. Both can be adjusted if wrong - file a pull request!
+
+</div>
 
 This page documents the work on the **Farefare language model**. 
 
